@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_bar_people"
+        android:icon="@drawable/people"
+        android:title="@string/people"/>
+
+    <item android:id="@+id/bottom_bar_cards"
+        android:icon="@drawable/creditcard"
+        android:title="Cards"/>
+
+    <item android:id="@+id/bottom_bar_phone"
+        android:icon="@drawable/phone"
+        android:title="Phone"/>
+
+    <item android:id="@+id/bottom_bar_mail"
+        android:icon="@drawable/mail"
+        android:title="Mail"/>
+
+    <item android:id="@+id/bottom_bar_favourite"
+        android:icon="@drawable/favorite"
+        android:title="Favourite"/>
+</menu>
